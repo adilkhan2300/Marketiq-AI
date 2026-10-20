@@ -1,0 +1,13 @@
+date,campaign_id,campaign_name,channel,impressions,clicks,spend,conversions,attributed_revenue,gross_margin_rate
+2024-05-15,CMP-GGL-001,Google Search - Brand Intent,Google Ads,4950,198,110.0,12,1920.0,0.72
+2024-05-15,CMP-GGL-002,Google Search - Non-Brand High Intent,Google Ads,11700,468,260.0,15,2175.0,0.65
+2024-05-15,CMP-GGL-003,Google Performance Max - Dynamic,Google Ads,9450,378,210.0,9,1125.0,0.6
+2024-05-15,CMP-META-001,Meta Retargeting - Cart Abandoners,Meta Ads,6300,252,140.0,13,1950.0,0.68
+2024-05-15,CMP-META-002,Meta Top-of-Funnel - Video Promo,Meta Ads,17100,684,380.0,8,760.0,0.28
+2024-05-15,CMP-META-003,Meta Lookalike 2% - Growth Expansion,Meta Ads,9900,396,220.0,8,1040.0,0.62
+2024-05-15,CMP-LNK-001,LinkedIn Sponsored Content - B2B Execs,LinkedIn Ads,13950,558,310.0,4,880.0,0.65
+2024-05-15,CMP-LNK-002,LinkedIn InMail & Lead Gen Forms,LinkedIn Ads,8100,324,180.0,8,2000.0,0.7
+2024-05-15,CMP-EML-001,Email Lifecycle & Automated Nurture,Email Marketing,1575,63,35.0,4,560.0,0.75
+2024-05-15,CMP-EML-002,Email VIP Winback & Re-engagement,Email Marketing,1125,45,25.0,2,350.0,0.74
+2024-05-15,CMP-AFF-001,Affiliate - Curated Review Portals,Affiliate Marketing,6750,270,150.0,10,1550.0,0.58
+2024-05-15,CMP-AFF-002,Influencer Tech Partner Pilot,Affiliate Marketing,1800,72,40.0,1,130.0,0.6
